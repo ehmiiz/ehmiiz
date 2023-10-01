@@ -1,7 +1,5 @@
 ### Hey! 😁
 
-
-
 - 👍 Enjoy: automation, coding, security, infrastructure
 - 🏢 Work: AD DS, FS, CS 🔐, Entra ID 🌩️, Az Automation 🤖, MSGraph, Git 🎛️
 - 🌛 OS: [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs/), PowerShell projects, and my [blog](https://ehmiiz.se)
