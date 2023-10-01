@@ -5,7 +5,7 @@
 - 🌛 OS: [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs/), PowerShell projects, and my [blog](https://ehmiiz.se)
 - 🔮 Future: Would love to work 100% **on**/**with** PowerShell
 - 📫 Contact: [Twitter](https://twitter.com/ehmiiz), [LinkedIn](https://www.linkedin.com/in/ehmiiz/)
-- ⚡ FunFact: I'm a former World of Warcraft Gladiator and have 3600+ hours in DoTA2 🤓
+- ⚡ FunFact: I'm a former Wow Glad (if you know you know) and have 3600+ hours in DoTA2 🤓
 - 🏓 Hobbies: 
     - Powerlifting 🏋️
     - Reading 📙
