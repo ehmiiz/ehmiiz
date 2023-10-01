@@ -9,4 +9,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/ehmiiz), [LinkedIn](https://www.linkedin.com/in/ehmiiz/)
 - ⚡ Fun fact: I'm a former World of Warcraft Gladiator and have 3000+ hours in DoTA2 🤓
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ehmiiz&bg_color=012456&text_color=dfdfdf&title_color=009e00&show=prs_merged)
+![Stats](https://github-readme-stats.vercel.app/api?username=ehmiiz&bg_color=012456&text_color=dfdfdf&title_color=009e00&show=prs_merged&custom_title=PS%3E%20$EmilsStats)
