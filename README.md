@@ -2,7 +2,7 @@
 
 
 
-- 👍 I enjoy: automation, coding, security, infrastructure
+- 👍 Enjoy: automation, coding, security, infrastructure
 - 🏢 Primary work: AD DS, FS, CS 🔐, Entra ID 🌩️, Az Automation 🤖, MSGraph, Git 🎛️
 - 🌛 Side projects: [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs/), any OS project I can contribute to, and my [blog](https://ehmiiz.se)
 - 🔮 Future: Would love to work 100% **on**/**with** PowerShell
