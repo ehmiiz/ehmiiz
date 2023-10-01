@@ -2,8 +2,8 @@
 
 
 
-- ❤️ I enjoy: coding, security and automation
-- 🏢 I work with: Active Directory ds, fs, cs 🔐, Entra ID 🌩️, Azure Automation 🤖, Git 🎛️
+- ❤️ I enjoy: automation, coding, security
+- 🏢 I work with: AD DS, FS, CS 🔐, Entra ID 🌩️, Az Automation 🤖, MSGraph, Git 🎛️
 - 🌝 2nd "work" at night: [PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs/), any OS project I can contribute to, and my [blog](https://ehmiiz.se)
 - 🔮 Future: Would love to work 100% **on**/**with** PowerShell
 - 📫 How to reach me: [Twitter](https://twitter.com/ehmiiz), [LinkedIn](https://www.linkedin.com/in/ehmiiz/)
