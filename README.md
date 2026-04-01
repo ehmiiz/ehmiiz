@@ -10,5 +10,3 @@
     - Fishing 🎣
     - Metal 🤘
     - Software, Hardware, OSS, Linux 🖥️
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ehmiiz&bg_color=012456&text_color=dfdfdf&title_color=009e00&show=prs_merged&custom_title=PS%3E%20$EmilsStats)
